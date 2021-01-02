@@ -4,7 +4,7 @@
 
 The following figure is the forward kinematics
 
-![Sketch]()
+![Sketch](https://user-images.githubusercontent.com/21059011/103450870-6514ec80-4c8a-11eb-92f9-6359a1cd9598.png)
 
 ## Inverse Kinematics
 
